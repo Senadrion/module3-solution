@@ -1,0 +1,14 @@
+
+.chicken, .beef, .sushi {
+	background-color: #f8f8f8;
+	padding:0 15px 15px 15px ;
+
+}
+.nav li {
+	text-align: center;
+}
+
+.nav li hr{
+	margin-top: 10px;
+	margin-bottom:0px;
+}
